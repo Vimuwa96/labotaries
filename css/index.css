@@ -13,9 +13,7 @@
     color: white;
 }
 
-.cards{
-    background-color: white;
-}
+
 
 #navbartwo{
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
@@ -33,3 +31,18 @@
     text-transform: uppercase;
     font-weight: 600;
 }
+
+#social {
+    width: 50px;
+    background-color: rgb(153, 154, 156);
+    border-radius: 50%;
+}
+
+#social:hover {
+    background-color: white;
+}
+
+.dark-mode {
+    background-color: black;
+    color: white;
+  }
